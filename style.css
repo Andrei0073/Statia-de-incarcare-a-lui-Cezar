@@ -1,0 +1,17 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: rgb(84, 199, 113);
+}
+
+h1, p { 
+    text-align: center;
+}
+
+img { 
+    text-align: center;
+}
