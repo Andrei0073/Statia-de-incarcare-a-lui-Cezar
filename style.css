@@ -11,3 +11,6 @@ p {
 h1, p { 
     text-align: center;
 }
+input { 
+  justify-content: center;
+}
